@@ -1,4 +1,4 @@
-#  Transformer Day 1 Exercise
+# Transformer Day 1 Exercise
 
 ## 1️⃣ What is Generative AI?
 
