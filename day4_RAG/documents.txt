@@ -1,0 +1,10 @@
+Transformers use self-attention mechanisms to model relationships between all tokens in a sequence simultaneously.
+Diffusion models generate images by gradually removing noise from a random starting point until a coherent image emerges.
+Embeddings convert text into numerical vectors that capture the semantic meaning of the content.
+Retrieval Augmented Generation (RAG) combines a retrieval system with a language model to answer questions using external documents.
+Convolutional Neural Networks (CNNs) are designed for image recognition by learning spatial features through convolutional filters.
+Reinforcement learning trains agents to take actions in an environment by maximizing a cumulative reward signal.
+Large Language Models are pre-trained on massive text corpora and can generate coherent and contextually relevant text.
+Vector databases store high-dimensional embeddings and enable fast similarity search across millions of documents.
+Cosine similarity measures the angle between two vectors and is commonly used to compare text embeddings in semantic search.
+Backpropagation is the algorithm used to compute gradients and update weights in a neural network during training.
