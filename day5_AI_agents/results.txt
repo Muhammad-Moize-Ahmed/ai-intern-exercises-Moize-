@@ -1,0 +1,48 @@
+Query: What is 12 * 7?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 84
+Final Answer: 12 multiplied by 7 equals 84.
+------------------------------------------------------------
+Query: What is 100 / 5?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 20.0
+Final Answer: 100 divided by 5 equals 20.
+------------------------------------------------------------
+Query: Explain what embeddings are.
+Thought: This is a conceptual question. I can answer directly without tools.
+Action: Use none
+Observation: N/A
+Final Answer: Embeddings are numerical vector representations of text that capture semantic meaning, allowing models to compare and search text based on meaning rather than exact keywords.
+------------------------------------------------------------
+Query: What is 9 * 9?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 81
+Final Answer: 9 multiplied by 9 equals 81.
+------------------------------------------------------------
+Query: What is 50 + 120?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 170
+Final Answer: 50 plus 120 equals 170.
+------------------------------------------------------------
+Query: What is the square root of 144?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 12.0
+Final Answer: The square root of 144 is 12.
+------------------------------------------------------------
+Query: What is an AI agent?
+Thought: This is a conceptual question. I can answer directly without tools.
+Action: Use none
+Observation: N/A
+Final Answer: An AI agent is a system that allows an LLM to reason about a task, choose actions, use external tools, observe results, and iterate until the task is complete — going beyond simple question-answering.
+------------------------------------------------------------
+Query: What is 256 / 16?
+Thought: The user asked a math question. I should use the calculator tool.
+Action: Use calculator
+Observation: 16.0
+Final Answer: 256 divided by 16 equals 16.
+------------------------------------------------------------
