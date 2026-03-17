@@ -13,7 +13,7 @@
 ## Framework / Runtime
 
 **LM Studio** — local server mode (OpenAI-compatible API on port 1234)  
-**Inference script:** Python + `openai` SDK  
+**Inference script:** Python  
 **Model:** Qwen3.5-0.8B
 
 ## How to Run
