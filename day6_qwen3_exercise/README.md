@@ -21,8 +21,7 @@
 1. Install LM Studio from https://lmstudio.ai
 2. Download **Qwen3.5-0.8B** inside LM Studio
 3. Go to the **Local Server** tab → click **Start Server** (port 1234)
-4. Install dependency: `pip install openai`
-5. Run: `python run_model.py`
+4. Run: `python run_model.py`
 
 Prompts and responses are automatically saved to `prompts_and_responses.md`.
 
